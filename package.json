@@ -1,0 +1,30 @@
+{
+  "name": "dterm",
+  "version": "0.1.0",
+  "description": "Terminal for the distributed web",
+  "bin": {
+    "dterm": "runner.js"
+  },
+  "dependencies": {
+    "@rangermauve/webrun": "3.0.2",
+    "minimist": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dterm/dterm-shell.git"
+  },
+  "keywords": [
+    "dterm",
+    "webterm",
+    "dat",
+    "distributed",
+    "terminal",
+    "shell"
+  ],
+  "bugs": {
+    "url": "https://github.com/dterm/dterm-shell/issues"
+  },
+  "homepage": "https://github.com/dterm/dterm-shell#readme",
+  "author": "Brecht Savelkoul <brecht.savelkoul@gmail.com>",
+  "license": "Apache-2.0"
+}
