@@ -1,6 +1,6 @@
 {
   "name": "dterm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Terminal for the distributed web",
   "bin": {
     "dterm": "runner.js"
